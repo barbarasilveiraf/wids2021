@@ -1,0 +1,8 @@
+Olá pessoal!!
+
+Estamos enviando para vocês uma prévia do notebook do nosso Hands-on da próxima quarta-feira, no evento WIDS 2021.
+O notebook contem o passo a passo que iremos fazer.
+
+Sugesões para usar usar o notebook:
+	- O Jupyter Notebok ou Jupyter Lab da  sua máquina local.
+	- Google Colab (online)
